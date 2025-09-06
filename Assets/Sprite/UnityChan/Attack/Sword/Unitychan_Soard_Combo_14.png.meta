@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Unitychan_Soard_Combo_14_0: -7338049806263827415
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

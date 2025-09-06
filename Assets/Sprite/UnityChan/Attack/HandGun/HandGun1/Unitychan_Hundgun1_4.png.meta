@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Unitychan_Hundgun1_4_0: -3160294016919566305
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
