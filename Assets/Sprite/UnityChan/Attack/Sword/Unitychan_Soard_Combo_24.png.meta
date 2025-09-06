@@ -134,10 +134,10 @@ TextureImporter:
         serializedVersion: 2
         x: 88
         y: 7
-        width: 64
+        width: 106
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -150,33 +150,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Unitychan_Soard_Combo_24_1
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 7
-        width: 19
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6fd104dc1b1f82310800000000000000
-      internalID: 1380619031744093686
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b199536c379f6064e89588017850905e
     internalID: 0
     vertices: []
     indices: 
@@ -185,7 +163,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Unitychan_Soard_Combo_24_0: -9000451127706311536
+      Unitychan_Soard_Combo_24_1: 1380619031744093686
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
