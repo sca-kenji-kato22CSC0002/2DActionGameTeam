@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Unitychan_Jump_Up_1_0: -7643643351210322513
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
