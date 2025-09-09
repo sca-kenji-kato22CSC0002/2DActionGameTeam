@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Unitychan_Jump_Fall_1_0: 1856687532973587963
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

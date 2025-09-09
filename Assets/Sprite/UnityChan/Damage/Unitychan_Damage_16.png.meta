@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Unitychan_Damage_16_0: -456796921680754002
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
